@@ -1,0 +1,23 @@
+body{
+  margin: 0%;
+  padding: 0;
+  font-family: 'Arial';
+  text-align": left;
+}
+nav.logo{
+  padding: 145px 35px;
+  height: 100px;
+  float: left;
+}
+nav.picture{
+  margin: 0;
+  border: 1px solid #ccc;
+  float: left
+  width: 180px;
+}
+p.normal {
+  font-weight: normal;
+  font-size: 14px;
+  font-variant: normal;
+  font-style: normal;
+}
